@@ -1,4 +1,4 @@
-# Enterprise Knowledge Base
+# Welcome
 
 > A question-driven knowledge base for enterprise IT systems. Organised by **scenario/question**, not by document source.
 
@@ -12,27 +12,27 @@
 
 ## Technology Areas
 
-| Area | Status | Key Topics |
-|---|---|---|
-| [🖨️ Print Management](Print-Management/README.md) | 🟨 In Progress | PaperCut, Windows Print, MFP setup |
-| [🔐 Identity & Access](Identity-Access/README.md) | 🟨 In Progress | Conditional Access, Entra ID, MFA, Zero Trust |
-| [🪟 Active Directory](Active-Directory/.gitkeep.md) | ⬜ Planned | AD, DNS, GPO, Kerberos |
-| [📱 Endpoint Management](Endpoint-Management/.gitkeep.md) | ⬜ Planned | Intune, Autopilot, Compliance |
-| [🌐 Networking](Networking/.gitkeep.md) | ⬜ Planned | DNS, DHCP, Firewall, VPN |
+| Area                                                           | Status         | Key Topics                                    |
+| -------------------------------------------------------------- | -------------- | --------------------------------------------- |
+| [🖨️ Print Management](print-management/print-management.md)   | 🟨 In Progress | PaperCut, Windows Print, MFP setup            |
+| [🔐 Identity & Access](identity-and-access/identity-access.md) | 🟨 In Progress | Conditional Access, Entra ID, MFA, Zero Trust |
+| [🪟 Active Directory](active-directory/.gitkeep.md)            | ⬜ Planned      | AD, DNS, GPO, Kerberos                        |
+| [📱 Endpoint Management](endpoint-management/.gitkeep.md)      | ⬜ Planned      | Intune, Autopilot, Compliance                 |
+| [🌐 Networking](networking/.gitkeep.md)                        | ⬜ Planned      | DNS, DHCP, Firewall, VPN                      |
 
 ## Adding to This KB
 
-1. Drop original documents into [\_Source-Documents](_Source-Registry.md) and register them
+1. Drop original documents into [\_Source-Documents](getting-started/_source-registry.md) and register them
 2. Extract the scenario questions the document answers
-3. Create entries using the [templates](_Templates/how-to-template.md)
+3. Create entries using the [templates](templates/how-to-template.md)
 4. Link related entries together
 
 ## Maturity Levels
 
-| Level | Meaning |
-|---|---|
-| ⬜ Planned | No entries yet |
-| 🟨 In Progress | Concept + 1–2 How-To entries |
-| 🟧 Functional | 5+ How-To, 3+ Troubleshoot |
-| 🟩 Operational | All common scenarios, lab-verified |
-| 🟦 Expert | Edge cases, automation, can train others |
+| Level          | Meaning                                  |
+| -------------- | ---------------------------------------- |
+| ⬜ Planned      | No entries yet                           |
+| 🟨 In Progress | Concept + 1–2 How-To entries             |
+| 🟧 Functional  | 5+ How-To, 3+ Troubleshoot               |
+| 🟩 Operational | All common scenarios, lab-verified       |
+| 🟦 Expert      | Edge cases, automation, can train others |
