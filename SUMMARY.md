@@ -36,8 +36,21 @@
 * [Overview](active-directory/.gitkeep.md)
 * **🧠 Concepts**
   * [Group Policy & LSDOU Processing](Active-Directory/concepts/group-policy-lsdou-processing.md)
+  * [Introduction to Group Policy](Active-Directory/concepts/introduction-to-group-policy.md)
+  * [Group Policy's Capabilities](Active-Directory/concepts/group-policys-capabilities.md)
+  * [Tools of the Trade](Active-Directory/concepts/tools-of-the-trade.md)
+  * [How Group Policy Gets Applied](Active-Directory/concepts/how-group-policy-gets-applied.md)
+  * [Intro to Group Policy Scripting](Active-Directory/concepts/introduction-to-group-policy-scripting.md)
 * **🛠️ How-To Guides**
   * [Map Drives & Printers Using GPP](Active-Directory/how-to-guides/deploy-group-policy-preferences.md)
+  * [Desktop and Server Lockdown](Active-Directory/how-to-guides/policy-scenarios---desktop-and-server-lockdown.md)
+  * [Security Policy Configs](Active-Directory/how-to-guides/policy-scenarios---security-policy.md)
+  * [Software Deployment](Active-Directory/how-to-guides/policy-scenarios---deploying-software-using-group-policy.md)
+  * [Folder Redirection & Profiles](Active-Directory/how-to-guides/policy-scenarios---folder-redirection-user-settings-and-data.md)
+  * [Managing Startup & Logon Scripts](Active-Directory/how-to-guides/policy-scenarios---managing-startuplogon-scripts.md)
+  * [Kiosk and RDS Scenarios](Active-Directory/how-to-guides/policy-scenarios---kiosks-and-remote-desktop-services.md)
+  * [Group Policy Management Tasks](Active-Directory/how-to-guides/group-policy-management-tasks.md)
+  * [Deployment Strategies](Active-Directory/how-to-guides/group-policy-deployment-strategies.md)
 * **🚨 Troubleshoot**
   * [Troubleshoot Failing Group Policy](Active-Directory/troubleshoot/troubleshoot-failing-group-policy.md)
 
