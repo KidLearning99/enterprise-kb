@@ -12,6 +12,7 @@
   * [PaperCut Architecture & Components](Print-Management/Concepts/papercut-architecture-and-components.md)
   * [How Windows Print Architecture Works](Print-Management/Concepts/how-windows-print-architecture-works.md)
 * **How-To Guides**
+  * [Deploy PaperCut & Find-Me Printing From Scratch](Print-Management/How-To/deploy-papercut-find-me-printing-from-scratch.md)
   * [Setup a Brand New Printer on PaperCut](Print-Management/How-To/setup-brand-new-printer-on-papercut.md)
 * **Troubleshoot**
   * [Troubleshoot Index](Print-Management/Troubleshoot/.gitkeep.md)

@@ -13,6 +13,7 @@ Resources for managing print infrastructure, PaperCut, and MFP devices.
 
 ## Quick Links
 
+* [Deploy PaperCut & Find-Me Printing From Scratch](How-To/deploy-papercut-find-me-printing-from-scratch.md)
 * [Setup a brand new printer on PaperCut](How-To/setup-brand-new-printer-on-papercut.md)
 * [PaperCut Architecture & Components](Concepts/papercut-architecture-and-components.md)
 * [How Windows Print Architecture Works](Concepts/how-windows-print-architecture-works.md)
