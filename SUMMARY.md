@@ -36,6 +36,10 @@
 * [Overview](active-directory/.gitkeep.md)
 * **🧠 Concepts**
   * [Group Policy & LSDOU Processing](active-directory/concepts/group-policy-lsdou-processing.md)
+* **🛠️ How-To Guides**
+  * [Map Drives & Printers Using GPP](active-directory/how-to-guides/deploy-group-policy-preferences.md)
+* **🚨 Troubleshoot**
+  * [Troubleshoot Failing Group Policy](active-directory/troubleshoot/troubleshoot-failing-group-policy.md)
 
 ## 📱 Endpoint Management
 
