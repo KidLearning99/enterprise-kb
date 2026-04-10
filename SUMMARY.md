@@ -62,6 +62,12 @@
 
 * [Overview](networking/.gitkeep.md)
 
+## 💻 Script Bank
+
+* [Find and Unlock AD Accounts](Script-Bank/ad-unlock-users.md)
+* [Force Remote GPUpdate](Script-Bank/force-remote-gpupdate.md)
+* [Find Stale AD Computers](Script-Bank/find-stale-ad-computers.md)
+
 ## 📝 Templates
 
 * [How-To Template](templates/how-to-template.md)
