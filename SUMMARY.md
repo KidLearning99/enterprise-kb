@@ -34,6 +34,8 @@
 ## 🪟 Active Directory
 
 * [Overview](active-directory/.gitkeep.md)
+* **🧠 Concepts**
+  * [Group Policy & LSDOU Processing](active-directory/concepts/group-policy-lsdou-processing.md)
 
 ## 📱 Endpoint Management
 

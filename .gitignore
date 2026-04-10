@@ -1,0 +1,9 @@
+# Ignore source materials and drafts
+_Source-Documents/*
+!_Source-Documents/*/.gitkeep.md
+!_Source-Documents/.gitkeep.md
+
+*.mp4
+*.zip
+*.avi
+*.mkv
