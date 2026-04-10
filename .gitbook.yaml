@@ -1,4 +1,6 @@
 root: ./
+title: "Enterprise Knowledge Base"
+description: "Standardized operating procedures, deep dives, and troubleshooting."
 structure:
   readme: README.md
   summary: SUMMARY.md
