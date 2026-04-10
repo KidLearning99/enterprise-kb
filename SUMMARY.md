@@ -64,6 +64,7 @@
 
 ## 💻 Script Bank
 
+* [The 100 Vetted Scripts Database](Script-Bank/100-vetted-powershell-scripts-index.md)
 * [Find and Unlock AD Accounts](Script-Bank/ad-unlock-users.md)
 * [Force Remote GPUpdate](Script-Bank/force-remote-gpupdate.md)
 * [Find Stale AD Computers](Script-Bank/find-stale-ad-computers.md)
