@@ -8,27 +8,27 @@
 ## 🖨️ Print Management
 
 * [Overview](print-management/print-management.md)
-* [Concepts](print-management/concepts/README.md)
-  * [PaperCut Architecture & Components](print-management/concepts/papercut-architecture-and-components.md)
-  * [How Windows Print Architecture Works](print-management/concepts/how-windows-print-architecture-works.md)
-* [How-To Guides](print-management/how-to-guides/README.md)
-  * [Deploy PaperCut & Find-Me Printing From Scratch](print-management/how-to-guides/deploy-papercut-find-me-printing-from-scratch.md)
-  * [Setup a Brand New Printer on PaperCut](print-management/how-to-guides/setup-brand-new-printer-on-papercut.md)
-* [Troubleshoot](print-management/troubleshoot/README.md)
+* **🧠 Concepts**
+  * [PaperCut Architecture](print-management/concepts/papercut-architecture-and-components.md)
+  * [Windows Print System](print-management/concepts/how-windows-print-architecture-works.md)
+* **🛠️ How-To Guides**
+  * [Deploy PaperCut from Scratch](print-management/how-to-guides/deploy-papercut-find-me-printing-from-scratch.md)
+  * [Setup a Brand New Printer](print-management/how-to-guides/setup-brand-new-printer-on-papercut.md)
+* **🚨 Troubleshoot**
   * [Troubleshoot Index](print-management/troubleshoot/.gitkeep.md)
-* [Architecture](print-management/architecture/README.md)
+* **📐 Architecture**
   * [Architecture Index](print-management/architecture/.gitkeep.md)
 
 ## 🔐 Identity & Access
 
 * [Overview](identity-and-access/identity-access.md)
-* [Concepts](identity-and-access/concepts/README.md)
-  * [What Is Conditional Access & How Does It Work?](identity-and-access/concepts/what-is-conditional-access-and-how-it-works.md)
-* [How-To Guides](identity-and-access/how-to-guides/README.md)
-  * [Create a Conditional Access Policy from Scratch](identity-and-access/how-to-guides/create-conditional-access-policy-from-scratch.md)
-* [Troubleshoot](identity-and-access/troubleshoot/README.md)
+* **🧠 Concepts**
+  * [Conditional Access Explained](identity-and-access/concepts/what-is-conditional-access-and-how-it-works.md)
+* **🛠️ How-To Guides**
+  * [Create a Conditional Access Policy](identity-and-access/how-to-guides/create-conditional-access-policy-from-scratch.md)
+* **🚨 Troubleshoot**
   * [Troubleshoot Index](identity-and-access/troubleshoot/.gitkeep.md)
-* [Architecture](identity-and-access/architecture/README.md)
+* **📐 Architecture**
   * [Architecture Index](identity-and-access/architecture/.gitkeep.md)
 
 ## 🪟 Active Directory
